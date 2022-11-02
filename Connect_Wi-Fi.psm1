@@ -120,7 +120,7 @@ Export-ModuleMember -Function "connect_wifi" -Alias *
 
 
 
-# Enable-NetAdapter Wi-Fi -Confirm:0 -ErrorAction SilentlyContinue
+#   Enable-NetAdapter Wi-Fi -Confirm:0 -ErrorAction SilentlyContinue
 # Import-Module Connecting2
 # Import-Module disconnect
 # Disable-NetAdapter -name *Ethernet* -Confirm:0
