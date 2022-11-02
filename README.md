@@ -1,5 +1,5 @@
 ### Hi there 👋
-This repo has the code for connecting Wi-Fi from powershell console on windows.
+This repo has the code for connecting Wi-Fi from PowerShell console on Windows.
 <!--
 **oludahray/oludahray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
